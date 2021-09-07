@@ -1,6 +1,7 @@
 # Interfacez Gestuales #
 
 ## Requisitos: ##
+* Gestor de Turnos
 *Gestor de Turnos
      *oscp5
 *Detección TSPS*
